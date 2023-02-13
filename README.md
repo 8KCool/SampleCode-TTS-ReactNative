@@ -2,10 +2,10 @@
     <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" align="left"/> 
     <h3>React Native TTS Source Code</h3>
+React Native TTS is a text-to-speech library for [React Native](https://facebook.github.io/react-native/) on iOS, Android and Windows.
 </div>
 
 
-React Native TTS is a text-to-speech library for [React Native](https://facebook.github.io/react-native/) on iOS, Android and Windows.
 
 ## Documentation
 
